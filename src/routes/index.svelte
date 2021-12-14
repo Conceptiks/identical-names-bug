@@ -8,6 +8,7 @@
 <pre>$lib/components/atoms/Button.svelte</pre>
 
 <a class="btn" href="/atoms/button">Go to "/atoms/button"</a>
+<a class="btn" href="/info/installation">Go to "/info/installation"</a>
 
 <style>
     a.btn {
