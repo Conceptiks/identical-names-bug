@@ -9,7 +9,7 @@
 		},
 		{
 			group: 'atoms',
-			content: ['button']
+			content: ['button', 'badge']
 		}
 	];
 
